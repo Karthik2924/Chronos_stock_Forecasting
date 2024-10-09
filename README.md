@@ -1,4 +1,3 @@
-# Chronos_stock_Forecasting
 # Stock Price Forecasting with Chronos
 
 
